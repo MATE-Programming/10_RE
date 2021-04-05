@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/Mentor-Khojiakbar/RE/blob/main/logo.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/10_RE/blob/main/lab_10.svg?raw=true)
 # Тесты на тему Регулярные Выражение
 
 #### 1. Создайте программу Python для удаления букв нижнего регистра в заданной строке.
