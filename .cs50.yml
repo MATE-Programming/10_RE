@@ -10,4 +10,4 @@ lab50:
     - !include problem3.py
     - !include problem4.py
     - !include problem5.py
-    - !include problem6.py
+   
